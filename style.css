@@ -1,0 +1,30 @@
+body {
+    background-color: #EB7F61;
+    color: #373737;
+    font-family: "Poppins", sans-serif;
+    position: fixed;
+    left: 40px;
+  }
+  
+  .menu-icon {
+     position: fixed;
+     top: 20px;
+     right: 20px;
+  }
+  
+  
+  p {
+    font-weight: bold;
+    font-size: 40px;
+    font-weight: lighter;
+  }
+  
+  .p_bajo { 
+    font-weight: lighter;
+    position: fixed;
+    bottom: 5px;
+    right: 60px;
+    font-size: 48px;
+  }
+  
+  
